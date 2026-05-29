@@ -1,4 +1,4 @@
-# Day02 - 2A202600793 - Đỗ Văn Cường
+# Day02 - 2A202600793 - Đỗ Văn Cung
 
 Repo nộp bài Day 02 Lab: Tìm đúng bài toán cho AI.
 
