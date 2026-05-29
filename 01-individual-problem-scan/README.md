@@ -1,51 +1,51 @@
 # 01 - Individual Problem Scan
 
-## Bang Scan Problems
+## Bảng Scan Problems
 
-| # | Lang kinh | Problem quan sat duoc | Ai dang dau? | Dau hieu that |
+| # | Lăng kính | Problem quan sát được | Ai đang đau? | Dấu hiệu thật |
 |---:|---|---|---|---|
-| 1 | Ton thoi gian | Tong hop tai lieu on thi tu nhieu nguon | Sinh vien | Mat 2-3 gio truoc moi ky thi de gom slide, PDF, de cuong va ghi chu |
-| 2 | AI co the tot hon | Doc paper AI de lay y chinh | Sinh vien AI | Mat 20-30 phut cho moi paper, de bo sot methodology hoac limitation |
-| 3 | Lap lai | Tim lai thong tin trong Discord/Zalo lop | Sinh vien | Mat 10-15 phut moi lan tim deadline, link nop bai hoac cau tra loi cu |
-| 4 | Pain tu nguoi khac | Thanh vien nhom khong nam duoc tien do do an | Nhom do an | Thanh vien hoi lai nhieu lan ve viec ai dang lam gi, viec nao da xong |
-| 5 | Ton thoi gian | Viet bao cao mon hoc | Sinh vien | Phai sua nhieu lan ve format, cau truc va noi dung |
-| 6 | Lap lai | Theo doi deadline nhieu mon hoc | Sinh vien | Deadline nam rai rac o LMS, Zalo, email; de quen han hoac nop sat han |
-| 7 | AI co the tot hon | Tim de tai nghien cuu phu hop | Sinh vien AI | Mat nhieu thoi gian tim paper, so sanh do kho va muc do phu hop |
-| 8 | Pain tu nguoi khac | Nguoi moi kho hieu he thong do an | Thanh vien moi | Phai giai thich lai kien truc, cach chay project va quy uoc nhom |
+| 1 | Tốn thời gian | Tổng hợp tài liệu ôn thi từ nhiều nguồn | Sinh viên | Mất 2-3 giờ trước mỗi kỳ thi để gom slide, PDF, đề cương và ghi chú |
+| 2 | AI có thể tốt hơn | Đọc paper AI để lấy ý chính | Sinh viên AI | Mất 20-30 phút cho mỗi paper, dễ bỏ sót methodology hoặc limitation |
+| 3 | Lặp lại | Tìm lại thông tin trong Discord/Zalo lớp | Sinh viên | Mất 10-15 phút mỗi lần tìm deadline, link nộp bài hoặc câu trả lời cũ |
+| 4 | Pain từ người khác | Thành viên nhóm không nắm được tiến độ đồ án | Nhóm đồ án | Thành viên hỏi lại nhiều lần về việc ai đang làm gì, việc nào đã xong |
+| 5 | Tốn thời gian | Viết báo cáo môn học | Sinh viên | Phải sửa nhiều lần về format, cấu trúc và nội dung |
+| 6 | Lặp lại | Theo dõi deadline nhiều môn học | Sinh viên | Deadline nằm rải rác ở LMS, Zalo, email; dễ quên hạn hoặc nộp sát hạn |
+| 7 | AI có thể tốt hơn | Tìm đề tài nghiên cứu phù hợp | Sinh viên AI | Mất nhiều thời gian tìm paper, so sánh độ khó và mức độ phù hợp |
+| 8 | Pain từ người khác | Người mới khó hiểu hệ thống đồ án | Thành viên mới | Phải giải thích lại kiến trúc, cách chạy project và quy ước nhóm |
 
 ## Top 3 Problems
 
-| Rank | Problem | Vi sao chon | Dieu con chua chac |
+| Rank | Problem | Vì sao chọn | Điều còn chưa chắc |
 |---:|---|---|---|
-| 1 | Tong hop tai lieu on thi | Pain that, xay ra truoc moi ky thi, ton nhieu thoi gian va co the do bang thoi gian tao outline on tap | Chat luong tom tat cua AI va kha nang bo sot kien thuc quan trong |
-| 2 | Tim lai thong tin Discord/Zalo | Nhieu sinh vien gap, workflow ro va impact do duoc bang thoi gian tim kiem | Kho lay du lieu tu Zalo/Discord va can xu ly quyen rieng tu |
-| 3 | Theo doi deadline mon hoc | De do hieu qua, lien quan truc tiep den viec nop bai dung han | Co the chi can Rule/Calendar, khong nhat thiet can AI |
+| 1 | Tổng hợp tài liệu ôn thi | Pain thật, xảy ra trước mỗi kỳ thi, tốn nhiều thời gian và có thể đo bằng thời gian tạo outline ôn tập | Chất lượng tóm tắt của AI và khả năng bỏ sót kiến thức quan trọng |
+| 2 | Tìm lại thông tin Discord/Zalo | Nhiều sinh viên gặp, workflow rõ và impact đo được bằng thời gian tìm kiếm | Khó lấy dữ liệu từ Zalo/Discord và cần xử lý quyền riêng tư |
+| 3 | Theo dõi deadline môn học | Dễ đo hiệu quả, liên quan trực tiếp đến việc nộp bài đúng hạn | Có thể chỉ cần Rule/Calendar, không nhất thiết cần AI |
 
 ---
 
-## Problem Card #1 - Tong hop tai lieu on thi
+## Problem Card #1 - Tổng hợp tài liệu ôn thi
 
-### Problem 1 cau
+### Problem 1 câu
 
-Sinh vien mat nhieu thoi gian tong hop tai lieu on thi tu nhieu nguon khac nhau truoc ky thi.
+Sinh viên mất nhiều thời gian tổng hợp tài liệu ôn thi từ nhiều nguồn khác nhau trước kỳ thi.
 
 ### Actor
 
-Sinh vien dai hoc.
+Sinh viên đại học.
 
-### Thoi diem / boi canh
+### Thời điểm / bối cảnh
 
-Truoc ky thi giua ky hoac cuoi ky, khi sinh vien can gom slide bai giang, PDF tham khao, de cuong mon hoc va ghi chu cu de tao tai lieu on tap.
+Trước kỳ thi giữa kỳ hoặc cuối kỳ, khi sinh viên cần gom slide bài giảng, PDF tham khảo, đề cương môn học và ghi chú cũ để tạo tài liệu ôn tập.
 
 ### Current Workflow
 
-| Buoc | Actor | Input | Output | Thoi gian |
+| Bước | Actor | Input | Output | Thời gian |
 |---:|---|---|---|---|
-| 1 | Sinh vien | Slide bai giang | Danh sach slide can doc | 10 phut |
-| 2 | Sinh vien | PDF tham khao | Tai lieu tham khao lien quan | 15 phut |
-| 3 | Sinh vien | De cuong mon hoc | Cac chu de can on | 5 phut |
-| 4 | Sinh vien | Tat ca tai lieu | Ghi chu tam | 90 phut |
-| 5 | Sinh vien | Ghi chu tam | Tai lieu on tap ban dau | 30 phut |
+| 1 | Sinh viên | Slide bài giảng | Danh sách slide cần đọc | 10 phút |
+| 2 | Sinh viên | PDF tham khảo | Tài liệu tham khảo liên quan | 15 phút |
+| 3 | Sinh viên | Đề cương môn học | Các chủ đề cần ôn | 5 phút |
+| 4 | Sinh viên | Tất cả tài liệu | Ghi chú tạm | 90 phút |
+| 5 | Sinh viên | Ghi chú tạm | Tài liệu ôn tập ban đầu | 30 phút |
 
 ### Current Workflow Diagram
 
@@ -53,33 +53,33 @@ Truoc ky thi giua ky hoac cuoi ky, khi sinh vien can gom slide bai giang, PDF th
 [Slide]
    \
     \
-     > [Doc tai lieu] ---> [Ghi chu tam] ---> [Tai lieu on tap]
+     > [Đọc tài liệu] ---> [Ghi chú tạm] ---> [Tài liệu ôn tập]
     /
    /
 [PDF]
 
-[De cuong] ----------------^
+[Đề cương] ---------------^
 ```
 
 ### Bottleneck
 
-Doc, loc y chinh va tong hop tai lieu mat khoang 120 phut.
+Đọc, lọc ý chính và tổng hợp tài liệu mất khoảng 120 phút.
 
 ### Impact
 
-Sinh vien ton nhieu thoi gian truoc ky thi, de bo sot kien thuc quan trong hoac tao tai lieu on tap thieu cau truc.
+Sinh viên tốn nhiều thời gian trước kỳ thi, dễ bỏ sót kiến thức quan trọng hoặc tạo tài liệu ôn tập thiếu cấu trúc.
 
 ### Success Metric
 
-Giam thoi gian tao ban nhap outline on tap tu khoang 3 gio xuong duoi 30 phut. Sinh vien van phai review noi dung truoc khi dung de hoc.
+Giảm thời gian tạo bản nháp outline ôn tập từ khoảng 3 giờ xuống dưới 30 phút. Sinh viên vẫn phải review nội dung trước khi dùng để học.
 
 ### Non-AI Alternative
 
-Dung template ghi chu va checklist on tap theo tung mon.
+Dùng template ghi chú và checklist ôn tập theo từng môn.
 
 ### AI Hypothesis
 
-AI ho tro tom tat slide/PDF/de cuong, gom y trung nhau, tao outline on tap va danh dau phan can sinh vien kiem tra lai.
+AI hỗ trợ tóm tắt slide/PDF/đề cương, gom ý trùng nhau, tạo outline ôn tập và đánh dấu phần cần sinh viên kiểm tra lại.
 
 ### Quick Gut
 
@@ -88,75 +88,75 @@ Workflow.
 ### Future Workflow
 
 ```text
-[Slide + PDF + De cuong]
+[Slide + PDF + Đề cương]
             |
             v
-      [AI tom tat]
+      [AI tóm tắt]
             |
             v
-    [AI tao outline]
+    [AI tạo outline]
             |
             v
-   [Sinh vien review]
+   [Sinh viên review]
             |
             v
- [Tai lieu on tap da kiem tra]
+ [Tài liệu ôn tập đã kiểm tra]
 ```
 
 ### Human Boundary
 
-Sinh vien phai kiem tra lai noi dung, doi chieu voi de cuong va slide goc truoc khi hoc hoac chia se cho nguoi khac.
+Sinh viên phải kiểm tra lại nội dung, đối chiếu với đề cương và slide gốc trước khi học hoặc chia sẻ cho người khác.
 
 ---
 
-## Problem Card #2 - Tim lai thong tin Discord/Zalo lop
+## Problem Card #2 - Tìm lại thông tin Discord/Zalo lớp
 
-### Problem 1 cau
+### Problem 1 câu
 
-Sinh vien mat nhieu thoi gian tim lai thong tin cu trong Discord hoac Zalo lop.
+Sinh viên mất nhiều thời gian tìm lại thông tin cũ trong Discord hoặc Zalo lớp.
 
 ### Actor
 
-Sinh vien.
+Sinh viên.
 
-### Thoi diem / boi canh
+### Thời điểm / bối cảnh
 
-Khi can tim lai deadline, link nop bai, file tai lieu, quyet dinh cua nhom/lop hoac cau tra loi cu trong cac kenh chat.
+Khi cần tìm lại deadline, link nộp bài, file tài liệu, quyết định của nhóm/lớp hoặc câu trả lời cũ trong các kênh chat.
 
 ### Current Workflow
 
 ```text
-[Mo Discord/Zalo]
+[Mở Discord/Zalo]
         |
         v
-  [Search tu khoa]
+  [Search từ khóa]
         |
         v
-[Doc nhieu tin nhan]
+[Đọc nhiều tin nhắn]
         |
         v
-[Tim duoc thong tin]
+[Tìm được thông tin]
 ```
 
 ### Bottleneck
 
-Phai doc lai nhieu tin nhan, thu nhieu tu khoa khac nhau va de bo sot thong tin neu khong nho dung cach nguoi khac da viet.
+Phải đọc lại nhiều tin nhắn, thử nhiều từ khóa khác nhau và dễ bỏ sót thông tin nếu không nhớ đúng cách người khác đã viết.
 
 ### Impact
 
-Moi lan tim mat 10-15 phut; neu tim sai hoac khong thay co the nop bai muon, hoi lai ban cung lop hoac lam theo thong tin cu.
+Mỗi lần tìm mất 10-15 phút; nếu tìm sai hoặc không thấy có thể nộp bài muộn, hỏi lại bạn cùng lớp hoặc làm theo thông tin cũ.
 
 ### Success Metric
 
-Giam thoi gian tim thong tin tu 10-15 phut xuong duoi 1 phut, ket qua tra ve phai kem nguon/tin nhan goc de nguoi dung xac nhan.
+Giảm thời gian tìm thông tin từ 10-15 phút xuống dưới 1 phút, kết quả trả về phải kèm nguồn/tin nhắn gốc để người dùng xác nhận.
 
 ### Non-AI Alternative
 
-Pin cac thong tin quan trong, tao FAQ hoac document tong hop link/deadline.
+Pin các thông tin quan trọng, tạo FAQ hoặc document tổng hợp link/deadline.
 
 ### AI Hypothesis
 
-Semantic search giup sinh vien hoi bang ngon ngu tu nhien va tra ve thong tin lien quan kem link/tin nhan goc.
+Semantic search giúp sinh viên hỏi bằng ngôn ngữ tự nhiên và trả về thông tin liên quan kèm link/tin nhắn gốc.
 
 ### Quick Gut
 
@@ -165,37 +165,37 @@ Workflow.
 ### Future Workflow
 
 ```text
-[Nhap cau hoi]
+[Nhập câu hỏi]
        |
        v
 [AI semantic search]
        |
        v
-[Tra ket qua + nguon]
+[Trả kết quả + nguồn]
        |
        v
-[Nguoi dung xac nhan]
+[Người dùng xác nhận]
 ```
 
 ### Human Boundary
 
-Nguoi dung can kiem tra nguon goc vi AI co the lay nham tin nhan cu, sai ngu canh hoac bo sot thong bao moi hon.
+Người dùng cần kiểm tra nguồn gốc vì AI có thể lấy nhầm tin nhắn cũ, sai ngữ cảnh hoặc bỏ sót thông báo mới hơn.
 
 ---
 
-## Problem Card #3 - Theo doi deadline mon hoc
+## Problem Card #3 - Theo dõi deadline môn học
 
-### Problem 1 cau
+### Problem 1 câu
 
-Sinh vien gap kho khan khi theo doi deadline cua nhieu mon hoc cung luc.
+Sinh viên gặp khó khăn khi theo dõi deadline của nhiều môn học cùng lúc.
 
 ### Actor
 
-Sinh vien.
+Sinh viên.
 
-### Thoi diem / boi canh
+### Thời điểm / bối cảnh
 
-Trong hoc ky, khi deadline bai tap, quiz, project va bao cao duoc thong bao o nhieu noi nhu LMS, email, Zalo lop hoac loi nhac cua giang vien.
+Trong học kỳ, khi deadline bài tập, quiz, project và báo cáo được thông báo ở nhiều nơi như LMS, email, Zalo lớp hoặc lời nhắc của giảng viên.
 
 ### Current Workflow
 
@@ -203,37 +203,37 @@ Trong hoc ky, khi deadline bai tap, quiz, project va bao cao duoc thong bao o nh
 [LMS]
    |
    v
-[Zalo lop]
+[Zalo lớp]
    |
    v
 [Email]
    |
    v
-[Ghi chu thu cong]
+[Ghi chú thủ công]
    |
    v
-[Theo doi deadline]
+[Theo dõi deadline]
 ```
 
 ### Bottleneck
 
-Thong tin deadline nam o nhieu noi, sinh vien phai tu kiem tra va ghi lai thu cong.
+Thông tin deadline nằm ở nhiều nơi, sinh viên phải tự kiểm tra và ghi lại thủ công.
 
 ### Impact
 
-Sinh vien de quen deadline, nop sat han hoac bo sot yeu cau nho trong thong bao.
+Sinh viên dễ quên deadline, nộp sát hạn hoặc bỏ sót yêu cầu nhỏ trong thông báo.
 
 ### Success Metric
 
-100% deadline duoc ghi vao calendar trong vong 24 gio sau khi duoc thong bao. Nhac truoc han 3 ngay va 1 ngay. So lan quen deadline trong mot hoc ky giam tu 2-3 lan xuong 0 lan.
+100% deadline được ghi vào calendar trong vòng 24 giờ sau khi được thông báo. Nhắc trước hạn 3 ngày và 1 ngày. Số lần quên deadline trong một học kỳ giảm từ 2-3 lần xuống 0 lần.
 
 ### Non-AI Alternative
 
-Google Calendar, checklist theo mon va reminder lap lai.
+Google Calendar, checklist theo môn và reminder lặp lại.
 
 ### AI Hypothesis
 
-AI co the doc thong bao tu nhieu nguon, nhan dien deadline, trich xuat ten mon, yeu cau nop bai va de xuat lich nhac.
+AI có thể đọc thông báo từ nhiều nguồn, nhận diện deadline, trích xuất tên môn, yêu cầu nộp bài và đề xuất lịch nhắc.
 
 ### Quick Gut
 
@@ -245,36 +245,36 @@ Rule.
 [LMS + Email + Zalo]
           |
           v
-[Tong hop deadline]
+[Tổng hợp deadline]
           |
           v
-[Calendar tap trung]
+[Calendar tập trung]
           |
           v
-[Nhac truoc han]
+[Nhắc trước hạn]
           |
           v
-[Hoan thanh bai tap]
+[Hoàn thành bài tập]
 ```
 
 ### Human Boundary
 
-Sinh vien can xac nhan deadline truoc khi them vao calendar, dac biet khi thong bao bi sua hoac co nhieu moc nop bai khac nhau.
+Sinh viên cần xác nhận deadline trước khi thêm vào calendar, đặc biệt khi thông báo bị sửa hoặc có nhiều mốc nộp bài khác nhau.
 
 ---
 
-## Card muon pitch nhat
+## Card muốn pitch nhất
 
-### Card toi muon pitch nhat
+### Card tôi muốn pitch nhất
 
-Problem Card #1 - Tong hop tai lieu on thi tu nhieu nguon.
+Problem Card #1 - Tổng hợp tài liệu ôn thi từ nhiều nguồn.
 
-### Vi sao
+### Vì sao
 
-Day la pain that cua sinh vien truoc moi ky thi, xay ra lap lai o nhieu mon, ton nhieu thoi gian va co the do duoc bang thoi gian chuan bi tai lieu on tap. Bai nay cung phu hop de so sanh giua template ghi chu, workflow ho tro va AI tom tat.
+Đây là pain thật của sinh viên trước mỗi kỳ thi, xảy ra lặp lại ở nhiều môn, tốn nhiều thời gian và có thể đo được bằng thời gian chuẩn bị tài liệu ôn tập. Bài này cũng phù hợp để so sánh giữa template ghi chú, workflow hỗ trợ và AI tóm tắt.
 
-### Cau hoi toi muon nhom challenge
+### Câu hỏi tôi muốn nhóm challenge
 
-- AI tom tat co lam mat hoac hieu sai kien thuc quan trong khong?
-- Lam sao kiem tra chat luong outline on tap?
-- Bai nay nen dung AI o muc Workflow hay chi can template + checklist?
+- AI tóm tắt có làm mất hoặc hiểu sai kiến thức quan trọng không?
+- Làm sao kiểm tra chất lượng outline ôn tập?
+- Bài này nên dùng AI ở mức Workflow hay chỉ cần template + checklist?

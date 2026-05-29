@@ -1,14 +1,14 @@
-# Day02 - 2A202600793 - Do Van Cung
+# Day02 - 2A202600793 - Đỗ Văn Cường
 
-Repo nop bai Day 02 Lab: Tim dung bai toan cho AI.
+Repo nộp bài Day 02 Lab: Tìm đúng bài toán cho AI.
 
-## Cau truc
+## Cấu trúc
 
-- `01-individual-problem-scan/`: phan ca nhan gom bang scan problems, top 3 Problem Cards, workflow hien tai/tuong lai va card muon pitch.
-- `02-group-problem-statement/`: phan nhom, se cap nhat sau khi nhom chot candidate problem.
-- `03-individual-reflection/`: reflection ca nhan, se viet sau khi hoan thanh phan nhom.
+- `01-individual-problem-scan/`: phần cá nhân gồm bảng scan problems, top 3 Problem Cards, workflow hiện tại/tương lai và card muốn pitch.
+- `02-group-problem-statement/`: phần nhóm, sẽ cập nhật sau khi nhóm chốt candidate problem.
+- `03-individual-reflection/`: reflection cá nhân, sẽ viết sau khi hoàn thành phần nhóm.
 
-## Trang thai
+## Trạng thái
 
-- Da hoan thanh phan ca nhan ban dau: scan 8 problems va 3 Problem Cards.
-- Can bo sung phan nhom va reflection sau buoi thao luan nhom.
+- Đã hoàn thành phần cá nhân ban đầu: scan 8 problems và 3 Problem Cards.
+- Cần bổ sung phần nhóm và reflection sau buổi thảo luận nhóm.
